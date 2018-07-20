@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "117397055704",
+    "firebase_url": "https://ptithcm-toeic-learning.firebaseio.com",
+    "project_id": "ptithcm-toeic-learning",
+    "storage_bucket": "ptithcm-toeic-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117397055704:android:bacf1e573819ab52",
+        "android_client_info": {
+          "package_name": "com.ptit.ptittoeiclearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117397055704-l8vdudu6okee7nrum1659oe0rlr3tfif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCucecVSOqBYMQuN5WemFBHynvOD7o45L8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
